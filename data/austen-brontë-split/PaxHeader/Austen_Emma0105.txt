@@ -1,0 +1,1 @@
+68 path=tatom-current/data/austen-brontë-split/Austen_Emma0105.txt

@@ -1,0 +1,14 @@
+build/
+*.pyc
+__pycache__
+scratch
+mallet*
+source/_static/
+source/generated
+source/cache
+datasets.zip
+
+notes*
+venv/
+.idea/
+source/.ipynb_checkpoints

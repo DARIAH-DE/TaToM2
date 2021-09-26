@@ -1,0 +1,1 @@
+69 path=tatom-current/data/austen-brontë-split/Austen_Sense0107.txt
